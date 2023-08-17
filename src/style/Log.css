@@ -1,0 +1,74 @@
+.containers{
+    background-color: #24262b;
+     height: auto;
+     width: 500px;
+     height: 500px;
+     align-items: center;
+     margin-top: 80px;
+     margin-left: 400px;
+     border-radius: 20%;
+  }
+ 
+  
+  .header{
+     background-color: #24262b;
+     border-radius: 25%;
+     margin-top: 35px ;
+     width: 400px ;
+     margin-left: 45px;
+  }
+ 
+ .lo{
+     background-color: #24262b;
+     display: flex;
+     margin-left: 150px;
+     width: 150px;
+     color: white;
+     padding-top: 30px;
+     
+  } 
+  .logofont{
+     font-size: 50px;
+  }
+  .logostyle{
+     font-size: 40px;
+  }
+ .headdiv{
+     color: white;
+     margin-left: 90px;
+     padding-top: 10px;
+ }
+ .userdiv{
+    display: flex;
+    width: 400px;
+ }
+ 
+ .loginfoam{
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 50px;
+     
+ 
+ }
+ 
+ .inputf{
+    width: 400px;
+    height: 50px;
+    background-color: #24262b;
+    border: none;
+ }
+ 
+ 
+ .inputo{
+    width: 200px;
+    height: 50px;
+    background-color: #24262b;
+    border: none;
+ }
+ 
+ .btnSubmit{
+    width: 400px;
+    height: 50px;
+    background-color: #e91e63;
+    border: none;
+ }
